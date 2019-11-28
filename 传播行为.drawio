@@ -1,1 +1,52 @@
-<mxfile host="www.draw.io" modified="2019-11-28T01:07:39.830Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="fZq7Ee7fewJROWiRdgsk" version="12.3.1" type="github" pages="1"><diagram id="_YEdaOBLyu1Yyn0wKIzI" name="第 1 页">5Vhbb5swGP01fmwFmIv9CIRsD5tWrZq2Pk0M3IBGcEScJumv32dswjVJuzbdtEmRYh/fPs45/mxAOFzu3lXxKvvIU1Ygy0h3CM+QZZkmceFPInuFuKatgEWVpwoyWuA2f2R6ZINu8pStNaYgwXkh8lUfTHhZskT0sLiq+Lbf7Z4XaQ9YxQs2Am6TuBijX/NUZAolltfi71m+yJqVTZeqlmXcdNZPss7ilG87EI4QDivOhSotdyErJHl9XuZHWg+BVawUTxlw9T38/GFXWvuHmWuuvjzan2YPV5aa5SEuNvqBUeQgGiKfyAKZIeqgyEYBQb5fF3zk2yhyESWI4rrPHFETRR6iNqJziQQhIvU8MAp+srOHAjCCW0CkwY8KSgtZqvtQ2aSWgOXk6gGikRwVQMGXBUJlt4gi4snlVBikHk4gHk3FWuwb1Sq+KVMmH9yEZbZZLtjtKk5k6xZ8ClgmloVuvs+LIuQFr+qxOAznc1gTolPUsEqw3VHOzYOSsAUYXzJR7aGLHmAbjhqi3W/a2gzb1kumq7Gs46MGi7V9F4epW4WhoEV+huB4QnDg1aiZBrnmkmNZMBDBWlXlBZCd+q0XJsT0pCZ+KAt+UOsz5Rc/QiSsVQXEqPsE8vfXi3nYyafEtN5STGcs5l9Lntknz/LG5GHPG5MHGfVC7LmvzN4rsITJgCUyYTEyYTF6KYt5kwfE2XNhSCSsBCc2exMSbYx7JGIDXztjGo0JGp1L0UgmaJw8106nwrek0cLOgMaxF+lUtnMuxCF9Koen7wbAiOiTtRYV/8maxFfykg1yoYbiIl+UUE2AQQZ4IPnN4a7o64ZlnqbFMXXaXGJcRqCpZOE4Y4GsS5m8SfE9hY5cCv4LhTDtZ6LDfukqNHHmXU4h8/yZx8rUly9OLatpvM4Oh2BHFbbLxTfJ1rWna3dQuzKuDdPRwGyn2awr+07lhlU5PJRUqUM3S0evYwOyIVa+qRJ2LtmORemSfiL3V6yIRf7QD2NKCb3CDc8hwKMXHdsbTKHC16O672vDiajXN49h9ScScbVgYjRRbYzDY7/AKxPvhie8khTxep0nU8fQeVH/lFgY98XCzdXhuWLZ5ya6tFgT73Uv2NglRKN2ttNU77pt7baua82+fsU9rL2vaDvRz/o39ro7mGgYy2/bB6rtJybVvf1Qh6Nf</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-28T01:12:35.619Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="PFeMbXe1bCpNjGCoGNgy" version="12.3.1" type="github" pages="1">
+  <diagram id="_YEdaOBLyu1Yyn0wKIzI" name="第 1 页">
+    <mxGraphModel dx="1186" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="-_CRLxn2yvD61pUz4ODv-2" value="在单个交易发生异常时&lt;br&gt;并不回滚批量事务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFE6;" parent="1" vertex="1">
+          <mxGeometry x="405" y="140" width="160" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-_CRLxn2yvD61pUz4ODv-3" value="通过调用多个&lt;br&gt;独立交易完成任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFE6;" parent="1" vertex="1">
+          <mxGeometry x="220" y="140" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-_CRLxn2yvD61pUz4ODv-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFE6;" parent="1" vertex="1">
+          <mxGeometry x="210" y="270" width="377" height="116" as="geometry"/>
+        </mxCell>
+        <mxCell id="-_CRLxn2yvD61pUz4ODv-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="280" width="180" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="-_CRLxn2yvD61pUz4ODv-7" value="单个交易" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="433" y="303.5" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="-_CRLxn2yvD61pUz4ODv-8" value="批量任务" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="235" y="300" width="90" height="65" as="geometry"/>
+        </mxCell>
+        <mxCell id="-_CRLxn2yvD61pUz4ODv-9" value="批量事务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="235" y="280" width="55" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="-_CRLxn2yvD61pUz4ODv-10" value="独立事务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="393" y="290" width="57" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="-_CRLxn2yvD61pUz4ODv-11" value="" style="endArrow=none;dashed=1;html=1;exitX=0.7;exitY=-0.015;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="-_CRLxn2yvD61pUz4ODv-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="471" as="sourcePoint"/>
+            <mxPoint x="297" y="202" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-_CRLxn2yvD61pUz4ODv-12" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="333" as="sourcePoint"/>
+            <mxPoint x="430" y="333" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-_CRLxn2yvD61pUz4ODv-13" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="-_CRLxn2yvD61pUz4ODv-7" target="-_CRLxn2yvD61pUz4ODv-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="471" as="sourcePoint"/>
+            <mxPoint x="478" y="200" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
