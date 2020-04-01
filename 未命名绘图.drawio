@@ -1,1 +1,88 @@
-<mxfile host="www.draw.io" modified="2020-03-27T01:34:18.884Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="7G9jmsVNZ3HjyOFFjXtg" version="12.9.2" type="github"><diagram id="scXPrxqoIsWwwlJUjfvL" name="第 1 页">3VlNl+IoFP01LHuOhCSSZbS0e9E9M+fUortnRyWUZjoGG7HV+fUNBkyAeEprEq1TK+HxEbjc+3gPAZqu9h85WS+/sJyWIBjle4AeQBBAiGP5oyyH2hLDsDYseJHXplFjeCz+o3qksW6LnG60rTYJxkpRrG1jxqqKZsKyEc7Zzu72zMrcMqzJgnqGx4yUvvVrkYtlbcXBuLF/osViab4M46RuWRHTWe9ksyQ527VMaAbQlDMm6tJqP6WlAs/GZX6m9bQwTitxyYDq6ecaVuWnf57zP9P55+nDv1+fP+hZfpFyqzcMZhFIIiDPTRbSGZjIQgxSDFJ4bJoBPAGzEEymIDU7EwcDF2fbKqfqixCgyW5ZCPq4Jplq3UmCSNtSrErd/FyU5ZSVjB/HIoSSZC5XP9FrolzQ/dnNwhOEknuUrajgB9lFDwgM7zTtYKjXumsOMQlq07J1fqG2EU2bxWnmBllZ0OBeAXTgAU14F7DSggAeqcIk0hY8A2mk+uC5au0X8/kcoWEwD1B0GebxQJijDnK7iMsJgimYjQFONdUl+Bi+YWJDC2QU+iBD4zzbKKOhUI47XYh0D7iG++FIXo/Xb5XFIR47AI89gHHUge9QnmPs4+tiR6s8VXedrGUl2WyKzIaL7gvxTZZHf0S69r3V8qB2PjKVg6lUcvGtQar6vd3WDDvWzLh6cTT3rlXnAOQG2JZn9OXLSRC+oOIl3+ofaOvAog5BGBunJRHFL3u5Xaeov/A3K+RGTnxBHl+cKept6lHt+9mZKET2REHiTFTj4E10JNVp26/nGfZ4tuWlRzUpLGGTayM4+0GNGitWUUeg2kTKYlEphkoeUGmfKJkWMtJKdcOqyHP1mU7xN+5h1I/OkYkITISQJJ7Oww7amHCud50n99F5j3p9HzpExpOfm2hgHZrL243JZVgyveZCfT9KRchxjP6NHMEbKhV2ZE3XSvVS2d1NTuPEBj1y4sdL5RR5cnImOiMniR45tLqtVYfN+QW73zELbg66nrFfrfpp3fVO2wRa0AqzmqjrfwdaLwZQ6J5MC3FoEyRGr2PavQMoGHlk2EgXSnjBpDV/8pixWZK1KmaHspAuk7+c9zzVvvXz08lAsh+Lo8f9ayvkLBQMnoGikS20KAg9dxx30AUP5o47MtB3546R/baC8CtF4k4UovC2IulIZ1/zXPBuopsI2e4vGPt5yLiDWDAZSk5+Itj9VClPLVVPxaoA9fEN+FSpnnhkjtbPK9oYOyrwQ0po/NxN3iphD+lfjxFBfZfdz9vZj5whDvoJCU531428XeBnClJLdw4G+hRSaP4wOQUD8X2DASObPp5RTLkVj9/iGaV2wG/mHSVxAoSLtRfbGWQUOCFLT4mf+50wtv4HvTbxk9XmP9m6e/PPNpr9Bg==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-04-01T11:43:23.535Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="jq9dwE_Z_KBl9TW9dqds" version="12.9.3" type="github">
+  <diagram id="scXPrxqoIsWwwlJUjfvL" name="第 1 页">
+    <mxGraphModel dx="1055" dy="542" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nbqp1nlHZfdNAFLCDjWf-1" value="商家模型传" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" parent="1" vertex="1">
+          <mxGeometry x="286" y="140" width="92" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="nbqp1nlHZfdNAFLCDjWf-2" value="ar模型检测接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF33;" parent="1" vertex="1">
+          <mxGeometry x="286" y="235" width="92" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="nbqp1nlHZfdNAFLCDjWf-3" value="模型id,状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" parent="1" vertex="1">
+          <mxGeometry x="281" y="345" width="110" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="nbqp1nlHZfdNAFLCDjWf-6" value="异步检测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF33;" parent="1" vertex="1">
+          <mxGeometry x="487" y="347" width="85" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="nbqp1nlHZfdNAFLCDjWf-7" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nbqp1nlHZfdNAFLCDjWf-1" target="nbqp1nlHZfdNAFLCDjWf-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="341" as="sourcePoint" />
+            <mxPoint x="437" y="291" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nbqp1nlHZfdNAFLCDjWf-8" value="url" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="199" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nbqp1nlHZfdNAFLCDjWf-9" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="nbqp1nlHZfdNAFLCDjWf-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="341" as="sourcePoint" />
+            <mxPoint x="332" y="341" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nbqp1nlHZfdNAFLCDjWf-10" value="同步检测" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="333" y="297" width="51" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nbqp1nlHZfdNAFLCDjWf-11" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379" y="256" as="sourcePoint" />
+            <mxPoint x="532" y="346" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="532" y="256" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nbqp1nlHZfdNAFLCDjWf-12" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="nbqp1nlHZfdNAFLCDjWf-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="484" y="363" as="sourcePoint" />
+            <mxPoint x="437" y="291" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nbqp1nlHZfdNAFLCDjWf-15" value="scenario db" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#3399FF;" parent="1" vertex="1">
+          <mxGeometry x="302" y="524" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nbqp1nlHZfdNAFLCDjWf-16" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="336" y="383" as="sourcePoint" />
+            <mxPoint x="336" y="434" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nbqp1nlHZfdNAFLCDjWf-17" value="异步检测" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="534" y="279" width="70" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="nbqp1nlHZfdNAFLCDjWf-18" value="ar模型底层接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3399;" parent="1" vertex="1">
+          <mxGeometry x="278" y="437" width="102" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="nbqp1nlHZfdNAFLCDjWf-19" value="" style="endArrow=classic;html=1;" parent="1" target="nbqp1nlHZfdNAFLCDjWf-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="331" y="482" as="sourcePoint" />
+            <mxPoint x="437" y="302" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nbqp1nlHZfdNAFLCDjWf-21" value="ar db" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#FF3399;" parent="1" vertex="1">
+          <mxGeometry x="442" y="526" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nbqp1nlHZfdNAFLCDjWf-22" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="nbqp1nlHZfdNAFLCDjWf-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="394" as="sourcePoint" />
+            <mxPoint x="469" y="523" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="469" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
