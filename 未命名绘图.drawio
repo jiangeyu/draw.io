@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2020-04-29T07:13:43.539Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="iVgneI4_U8jFSyAWPPNF" version="13.0.1" type="github"><diagram id="_rrmFTTiN_UqxZzaoxqy" name="第 1 页">7Zhdb9owFIZ/jS9bxR/B9mWgsEnbJLRebN1dlrgQKWBkTIH9+tnYIXGSql/Qdh9SVcWvc05ynvPaSQB4tNh9UOlq/kXmogQoyncAXwGEOBmY/1bYO2EAiRNmqsidFNXCdfFLOBFW6qbIxdprTtJSlrpYhWIml0uR6UBLlZLb8LRbWeaBsEpnoiNcZ2nZVb8VuZ47lSFa6x9FMZtXV4YD7mYWaXWyr2Q9T3O5bUh4DPBISand0WI3EqVlF3KZ3DN7vDEllvoxAdn0ZjKb3i1HGH+9+HFDP336+fkCuyx3abnxBSdrLZXwt6z3FQclN8tc2FQQ4OF2XmhxvUozO7s1jTfaXC9KP31blOVIllIdYvFkEkUsMrq/mFBa7O6tAh7ZGE8JuRBa7c0pPgBj5kK8nzD1ftrW3YEV8nmjMwOvpd4Qs2Pqmpk58NiegJB0EIIxBcMhYBSMYzCkIEEnxYkx55PJeXCi+K1xxj04CRgykCSHg8T+jRkYXlnGFnACOD0pYIuX89MAhjEMAEMCL+Mu4qgHMYnPhHjQj3gEeGKBcgg4O5CNAJtYMycMsIq1Ud4ra4LiFmvUQzruIU3PRJr2kI5BMgbDgfVwggGL/yAzI44fZWbcg5hcnsvOrHcDTox54cHOMWCDd4s0pu39gfQipT1I0ZmAVu9eTaJtfmKZJ/b1yoyyMl2viyxEJnaF/m6OI1ONG900Zq5s9VE12PuBu4jIO29kLZjmRuRGZeLhp4hO1Uzohx7e3eY00Mc9O3OlKVGmurgLb7evHf4KU1mYQuqHL6NB7zFppXBl+qjmq107ESfhU5yQMJHj0El0cMex7BcYBr6NYYwt1N4F2b3fCzbuIrqMIK2UOvowCsKnQhWmfqFOb0L6T5mQ4DAR4q1E5zYherkJH9v8t2oWoeFChzx6ZrMQD5sVo9dtVvfD8+k7RrX6YXPlRw8s+hOub/Z/fb+mZXo+W/629Y15+AWDIX1eszqJ6KnWtxnWv1m50+sf/vD4Nw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-29T09:28:06.259Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="mNbjr3RYwSG3w9UnoqxL" version="13.0.2" type="github">
+  <diagram id="_rrmFTTiN_UqxZzaoxqy" name="第 1 页">
+    <mxGraphModel dx="946" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cPYFgPvnC33R-ZY7KKbL-3" value="Astore" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF0080;" parent="1" vertex="1">
+          <mxGeometry x="338" y="374" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cPYFgPvnC33R-ZY7KKbL-4" value="织巢" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" parent="1" vertex="1">
+          <mxGeometry x="338" y="254" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cPYFgPvnC33R-ZY7KKbL-5" value="个人轻店" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" parent="1" vertex="1">
+          <mxGeometry x="151" y="141.5" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="cPYFgPvnC33R-ZY7KKbL-6" value="会员小程序" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" parent="1" vertex="1">
+          <mxGeometry x="425" y="142" width="105" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="cPYFgPvnC33R-ZY7KKbL-7" value="家装轻店" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" parent="1" vertex="1">
+          <mxGeometry x="293" y="141.5" width="103" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cPYFgPvnC33R-ZY7KKbL-8" value="码商" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" parent="1" vertex="1">
+          <mxGeometry x="571" y="144.5" width="107" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="cPYFgPvnC33R-ZY7KKbL-10" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="cPYFgPvnC33R-ZY7KKbL-5" target="cPYFgPvnC33R-ZY7KKbL-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="341" as="sourcePoint" />
+            <mxPoint x="394" y="244" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cPYFgPvnC33R-ZY7KKbL-11" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.425;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cPYFgPvnC33R-ZY7KKbL-7" target="cPYFgPvnC33R-ZY7KKbL-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="341" as="sourcePoint" />
+            <mxPoint x="437" y="291" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cPYFgPvnC33R-ZY7KKbL-12" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="474" y="190" as="sourcePoint" />
+            <mxPoint x="429" y="252" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cPYFgPvnC33R-ZY7KKbL-13" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cPYFgPvnC33R-ZY7KKbL-8" target="cPYFgPvnC33R-ZY7KKbL-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="341" as="sourcePoint" />
+            <mxPoint x="437" y="291" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cPYFgPvnC33R-ZY7KKbL-16" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="395" y="317" as="sourcePoint" />
+            <mxPoint x="395" y="372" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
